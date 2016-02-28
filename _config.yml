@@ -1,28 +1,18 @@
-name: CozartPhotos
-favicon: null
-layout_spectrum: 0.7621
-typography_spectrum: 0.9817406213842332
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#9ebadf'
-    - '#69758a'
-    - '#dee3ce'
-    - '#160100'
-    - '#b25863'
+    - '#C8C8E0'
+    - '#309098'
+    - '#80B0B8'
+    - '#48B0B8'
+    - '#70C0D0'
   brandStrength: 0.375
   lightness: 0.3125
-  saturation: 0.6875
   rhythmicContrast: 1
+  saturation: 0.6875
+cta: {}
+layout_spectrum: 0.948191
+name: CozartPhotos
+opengraph: {}
 purpose: []
+typography_spectrum: 0.932566
